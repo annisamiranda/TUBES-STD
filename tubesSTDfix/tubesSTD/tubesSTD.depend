@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1556556047 source:c:\users\7717\documents\tubesstd\main.cpp
+	"menuPerpustakaan.h"
+
+1555677399 source:c:\users\7717\documents\tubesstd\tubes.cpp
+
+1556560448 source:c:\users\7717\documents\tubesstd\genre.cpp
+	"GENRE.h"
+
+1556557954 c:\users\7717\documents\tubesstd\genre.h
+	<iostream>
+	<string.h>
+	"BUKU.h"
+
+1556561268 source:c:\users\7717\documents\tubesstd\buku.cpp
+	"BUKU.h"
+
+1556558315 c:\users\7717\documents\tubesstd\buku.h
+	<iostream>
+	<string.h>
+
+1556556183 c:\users\7717\documents\tubesstd\menuperpustakaan.h
+	<stdlib.h>
+	<conio.h>
+	"GENRE.h"
+
+1556562210 source:c:\users\7717\documents\tubesstd\menuperpustakaan.cpp
+	"menuPerpustakaan.h"
+
+1556556048 source:g:\tubesstd\main.cpp
+	"menuPerpustakaan.h"
+
+1556556184 g:\tubesstd\menuperpustakaan.h
+	<stdlib.h>
+	<conio.h>
+	"GENRE.h"
+
+1556557956 g:\tubesstd\genre.h
+	<iostream>
+	<string.h>
+	"BUKU.h"
+
+1556558316 g:\tubesstd\buku.h
+	<iostream>
+	<string.h>
+
+1556584698 source:g:\tubesstd\menuperpustakaan.cpp
+	"menuPerpustakaan.h"
+
+1556581576 source:g:\tubesstd\buku.cpp
+	"BUKU.h"
+
+1556581318 source:g:\tubesstd\genre.cpp
+	"GENRE.h"
+
+1556581576 source:d:\user\downloads\tubesstd\tubesstd\buku.cpp
+	"BUKU.h"
+
+1556558316 d:\user\downloads\tubesstd\tubesstd\buku.h
+	<iostream>
+	<string.h>
+
+1556581318 source:d:\user\downloads\tubesstd\tubesstd\genre.cpp
+	"GENRE.h"
+
+1556557956 d:\user\downloads\tubesstd\tubesstd\genre.h
+	<iostream>
+	<string.h>
+	"BUKU.h"
+
+1556556048 source:d:\user\downloads\tubesstd\tubesstd\main.cpp
+	"menuPerpustakaan.h"
+
+1556556184 d:\user\downloads\tubesstd\tubesstd\menuperpustakaan.h
+	<stdlib.h>
+	<conio.h>
+	"GENRE.h"
+
+1556584698 source:d:\user\downloads\tubesstd\tubesstd\menuperpustakaan.cpp
+	"menuPerpustakaan.h"
+
+1556638460 source:c:\users\7717\documents\bluetooth folder\tubesstdfix\tubesstdfix\tubesstd\buku.cpp
+	"BUKU.h"
+
+1556636222 c:\users\7717\documents\bluetooth folder\tubesstdfix\tubesstdfix\tubesstd\buku.h
+	<iostream>
+	<string.h>
+
+1556638897 source:c:\users\7717\documents\bluetooth folder\tubesstdfix\tubesstdfix\tubesstd\genre.cpp
+	"GENRE.h"
+
+1556636222 c:\users\7717\documents\bluetooth folder\tubesstdfix\tubesstdfix\tubesstd\genre.h
+	<iostream>
+	<string.h>
+	"BUKU.h"
+
+1556639245 source:c:\users\7717\documents\bluetooth folder\tubesstdfix\tubesstdfix\tubesstd\main.cpp
+	"menuPerpustakaan.h"
+
+1556636222 c:\users\7717\documents\bluetooth folder\tubesstdfix\tubesstdfix\tubesstd\menuperpustakaan.h
+	<stdlib.h>
+	<conio.h>
+	"GENRE.h"
+
+1556639245 source:c:\users\7717\documents\bluetooth folder\tubesstdfix\tubesstdfix\tubesstd\menuperpustakaan.cpp
+	"menuPerpustakaan.h"
+
